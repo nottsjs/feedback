@@ -1,7 +1,7 @@
 # Feedback
 
 ## Help! We need your feedback
-We strive to improve LNUG, however, we need your help.  Please provide us with your feedback, good or bad.  
+We strive to improve NottsJs, however, we need your help.  Please provide us with your feedback, good or bad.  
 
 ## How
 [Open an issue](https://github.com/nottsjs/feedback/issues/new). 
